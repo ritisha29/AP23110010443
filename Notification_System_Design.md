@@ -26,3 +26,7 @@ Maintaining a fully sorted list of all notifications would take `O(N log N)` tim
 This approach guarantees that the priority inbox continuously stays up to date with the absolute most important `n` notifications without performance degradation over time.
 ![output sc stage1](image-1.png)
 ![output sc stage1](image.png)
+![output sc website](image-2.png)
+![sc 2](image-3.png)
+![sc 4](image-4.png)
+![sc 5](image-5.png)
