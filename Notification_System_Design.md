@@ -24,3 +24,5 @@ Maintaining a fully sorted list of all notifications would take `O(N log N)` tim
 - **Space Complexity:** The heap only stores exactly `n` elements at any given time, resulting in an `O(n)` space complexity. This guarantees low memory consumption regardless of how many total notifications exist.
 
 This approach guarantees that the priority inbox continuously stays up to date with the absolute most important `n` notifications without performance degradation over time.
+![output sc stage1](image-1.png)
+![output sc stage1](image.png)
