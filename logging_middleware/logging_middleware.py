@@ -48,5 +48,5 @@ async def health_check():
 
 if __name__ == "__main__":
     import uvicorn
-    print("Starting server with Logging Middleware on http://127.0.0.1:3000")
-    uvicorn.run(app, host="127.0.0.1", port=3000)
+    print("Starting server with Logging Middleware on http://127.0.0.1:8000")
+    uvicorn.run(app, host="127.0.0.1", port=8000)
